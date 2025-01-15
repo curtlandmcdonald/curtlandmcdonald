@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1>Hi, I'm Curtland!</h1>
 
-<!--
-**curtlandmcdonald/curtlandmcdonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Projects:</h2>
 
-Here are some ideas to get you started:
+<ul>
+  <li>
+    <a href="https://github.com/curtlandmcdonald/github-portfolio">GitHub Portfolio</a>      
+  </li>
+  <li>
+    <a href="https://github.com/curtlandmcdonald/to-do-list-app">To-Do List Application</a>
+  </li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Connect With Me:</h2>
+
+[<img align="left" alt="CurtlandMcDonald | Instagram" color="blue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="CurtlandMcDonald | LinkedIn" color="blue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[instagram]: https://www.instagram.com/curtlandmcdonald/
+[linkedin]: https://www.linkedin.com/in/curtland-mcdonald-95708b239
