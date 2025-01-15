@@ -13,8 +13,8 @@
 
 <h2>Connect With Me:</h2>
 
-[<img align="left" alt="CurtlandMcDonald | Instagram" color="blue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="CurtlandMcDonald | LinkedIn" color="blue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="CurtlandMcDonald | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="CurtlandMcDonald | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [instagram]: https://www.instagram.com/curtlandmcdonald/
 [linkedin]: https://www.linkedin.com/in/curtland-mcdonald-95708b239
